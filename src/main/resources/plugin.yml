@@ -1,0 +1,4 @@
+name: AfkManager
+version: '${project.version}'
+main: dev.bingulhan.afkmanager.AfkManager
+authors: [ BingulHan ]
